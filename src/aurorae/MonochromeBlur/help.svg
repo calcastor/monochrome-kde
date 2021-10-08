@@ -3,17 +3,17 @@
    width="24"
    height="24"
    version="1.1"
-   id="svg1349"
-   sodipodi:docname="minimize.svg"
+   id="svg977"
+   sodipodi:docname="help.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1353" />
+     id="defs981" />
   <sodipodi:namedview
-     id="namedview1351"
+     id="namedview979"
      pagecolor="#505050"
      bordercolor="#ffffff"
      borderopacity="1"
@@ -21,9 +21,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="13.333333"
-     inkscape:cx="23.5875"
-     inkscape:cy="16.0125"
+     inkscape:zoom="26.666667"
+     inkscape:cx="91.51875"
+     inkscape:cy="11.98125"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -38,11 +38,11 @@
        height="24"
        x="0"
        y="0"
-       id="rect1334" />
+       id="rect948" />
     <path
        style="fill-rule:evenodd;fill:#aaaaac"
-       d="m 8,14 v 2 h 8 v -2 z"
-       id="path1336" />
+       d="M 12,8 C 10.729479,8.0009552 9.4235068,8.8021406 9,9.9999998 h 3 c 0.552285,0 1,0.4477152 1,1.0000002 0,0.552285 -0.447715,1 -1,1 h -1 v 1.999999 h 1 c 1.656854,0 3,-1.343145 3,-2.999999 0,-1.6568543 -1.343146,-3 -3,-3 z m -1,7 v 1 h 2 v -1 z"
+       id="path950" />
   </g>
   <g
      id="hover-center">
@@ -52,17 +52,17 @@
        height="24"
        x="24"
        y="0"
-       id="rect1325" />
+       id="rect960" />
     <circle
        style="fill:#ffffff;opacity:.18000004"
        cx="36"
        cy="12"
-       id="circle1329"
-       r="12" />
+       r="12"
+       id="circle962" />
     <path
        style="fill-rule:evenodd;fill:#aaaaac"
-       d="m 32,16 h 8 v -2 h -8 z"
-       id="path1331" />
+       d="m 36,7.9999997 c -1.270521,9.551e-4 -2.576493,0.8021411 -3,2.0000001 h 3 c 0.552285,0 1,0.4477152 1,1.0000002 0,0.552285 -0.447715,1 -1,1 h -1 v 2 h 1 c 1.656854,0 3,-1.343146 3,-3 C 39,9.3431458 37.656854,7.9999998 36,7.9999997 Z M 35,15 v 1 h 2 v -1 z"
+       id="path964" />
   </g>
   <g
      id="pressed-center">
@@ -72,17 +72,17 @@
        height="24"
        x="48"
        y="0"
-       id="rect1316" />
+       id="rect955" />
     <circle
        style="fill:#ffffff;opacity:.28000004"
        cx="60"
        cy="12"
-       id="circle1320"
-       r="12" />
+       r="12"
+       id="circle957" />
     <path
        style="fill-rule:evenodd;fill:#aaaaac"
-       d="m 56,16 h 8 v -2 h -8 z"
-       id="path1322" />
+       d="m 60,8 c -1.270521,9.55e-4 -2.576493,0.802141 -3,2 h 3 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 h -1 v 2 h 1 c 1.656854,0 3,-1.343146 3,-3 0,-1.656854 -1.343146,-3 -3,-3 z m -1,7 v 1 h 2 v -1 z"
+       id="path953" />
   </g>
   <g
      id="inactive-center">
@@ -92,11 +92,11 @@
        height="24"
        x="72"
        y="0"
-       id="rect1339" />
+       id="rect972" />
     <path
-       style="opacity:0.5;fill-rule:evenodd;fill:#aaaaac"
-       d="m 80,14 v 2 h 8 v -2 z"
-       id="path1341" />
+       style="fill-rule:evenodd;fill:#ffffff;opacity:.25"
+       d="m 84,7.9999997 c -1.270521,9.551e-4 -2.576493,0.8021411 -3,2.0000001 h 3 c 0.552285,0 1,0.4477152 1,1.0000002 0,0.552285 -0.447715,1 -1,1 h -1 v 2 h 1 c 1.656854,0 3,-1.343146 3,-3 C 87,9.3431458 85.656854,7.9999998 84,7.9999997 Z M 83,15 v 1 h 2 v -1 z"
+       id="path974" />
   </g>
   <g
      id="deactivated-center">
@@ -106,10 +106,10 @@
        height="24"
        x="96"
        y="0"
-       id="rect1344" />
+       id="rect967" />
     <path
-       style="opacity:0.5;fill-rule:evenodd;fill:#aaaaac"
-       d="m 104,14 v 2 h 8 v -2 z"
-       id="path1346" />
+       style="fill-rule:evenodd;fill:#ffffff;opacity:.25"
+       d="m 108,7.9999998 c -1.27053,9.55e-4 -2.5765,0.802141 -3,2 h 3 c 0.55228,0 1,0.4477152 1,1.0000002 0,0.552285 -0.44772,1 -1,1 h -1 v 2 h 1 c 1.65685,0 3,-1.343146 3,-3 0,-1.6568542 -1.34315,-3.0000002 -3,-3.0000002 z M 107,15 v 1 h 2 v -1 z"
+       id="path969" />
   </g>
 </svg>
